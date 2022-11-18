@@ -1,0 +1,17 @@
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\bin\Debug\net6.0-windows\winAppServidor.exe
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\bin\Debug\net6.0-windows\winAppServidor.deps.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\bin\Debug\net6.0-windows\winAppServidor.runtimeconfig.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\bin\Debug\net6.0-windows\winAppServidor.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\bin\Debug\net6.0-windows\winAppServidor.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.Form1.resources
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.csproj.GenerateResource.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.AssemblyInfo.cs
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\refint\winAppServidor.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\winAppServidor.genruntimeconfig.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppServidor\winAppServidor\obj\Debug\net6.0-windows\ref\winAppServidor.dll

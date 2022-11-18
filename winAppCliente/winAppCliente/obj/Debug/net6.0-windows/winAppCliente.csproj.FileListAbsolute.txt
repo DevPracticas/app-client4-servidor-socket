@@ -1,0 +1,17 @@
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\bin\Debug\net6.0-windows\winAppCliente.exe
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\bin\Debug\net6.0-windows\winAppCliente.deps.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\bin\Debug\net6.0-windows\winAppCliente.runtimeconfig.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\bin\Debug\net6.0-windows\winAppCliente.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\bin\Debug\net6.0-windows\winAppCliente.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.Form1.resources
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.csproj.GenerateResource.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.AssemblyInfo.cs
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\refint\winAppCliente.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\winAppCliente.genruntimeconfig.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\Segunda unidad\winAppCliente\winAppCliente\obj\Debug\net6.0-windows\ref\winAppCliente.dll
